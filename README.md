@@ -2,6 +2,15 @@
 
 An android OTA payload dumper written in Go.
 
+# Build
+
+```
+sudo apt-get install golang liblzma-dev
+```
+```
+go build .
+```
+
 ## Features
 
 ![screenshot](https://i.imgur.com/IJtwoWU.png)
